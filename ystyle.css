@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'nunito';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(90deg,#f3aac8,#fff,#fff,#fff,#f3aac8);
+}
+.gif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    font-family: 'nunito';
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-shadow: 0 0 10px #8b0000;
+}
